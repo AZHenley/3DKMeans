@@ -1,0 +1,12 @@
+C:\Users\Austin\Dropbox\KMeans\KMeans\bin\Debug\KMeans.exe.config
+C:\Users\Austin\Dropbox\KMeans\KMeans\bin\Debug\KMeans.exe
+C:\Users\Austin\Dropbox\KMeans\KMeans\bin\Debug\KMeans.pdb
+C:\Users\Austin\Dropbox\KMeans\KMeans\obj\Debug\KMeans.csprojResolveAssemblyReference.cache
+C:\Users\Austin\Dropbox\KMeans\KMeans\obj\Debug\KMeans.exe
+C:\Users\Austin\Dropbox\KMeans\KMeans\obj\Debug\KMeans.pdb
+C:\Users\azhenley\Dropbox\KMeans\KMeans\bin\Debug\KMeans.exe.config
+C:\Users\azhenley\Dropbox\KMeans\KMeans\obj\Debug\KMeans.exe
+C:\Users\azhenley\Dropbox\KMeans\KMeans\obj\Debug\KMeans.pdb
+C:\Users\azhenley\Dropbox\KMeans\KMeans\bin\Debug\KMeans.exe
+C:\Users\azhenley\Dropbox\KMeans\KMeans\bin\Debug\KMeans.pdb
+C:\Users\azhenley\Dropbox\KMeans\KMeans\obj\Debug\KMeans.csprojResolveAssemblyReference.cache
